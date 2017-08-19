@@ -1,3 +1,4 @@
+Chinese [here](README_CN.md)
 # GitHubStar
 Auto star for gitstar.cn
 # Usage
@@ -25,3 +26,5 @@ Everything is ok,Hooray!
 ## Windows
 I haven't use Windows for a long time.  
 You can google ```windows python``` for more information.Good luck!
+
+
