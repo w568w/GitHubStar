@@ -21,7 +21,7 @@ def loginGitStar():
 def getGitStarList():
 	global NAME
 	cookie=loginGitStar()
-	url="http://gitstar.top:88/api/users/{}/status/recommend".format("admin")
+	url="http://gitstar.top:88/api/users/{}/status/recommend".format(NAME)
 	response = requests.get(url,headers={'Accept': 'application/json','Cookie':cookie})
 	jsn=response.json()
 	list=[]
