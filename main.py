@@ -10,19 +10,19 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys  
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 reload(sys)
+#YOUR GITSTAR NAME&PASS
 NAME="w568w"
-PASSWORD="xd20021111"
+PASSWORD="xxxxxxx"
+#YOUR GITHUB NAME&PASS
 GITNAME="w568w"
-GITPASSWORD="xd20021111,./"
+GITPASSWORD="xxxxxxx"
 sys.setdefaultencoding('utf-8')
-#obj = webdriver.PhantomJS("/bin/phantomjs")
+
+
 print "Start WebDriver..."
-# service_log_path = "{}/chromedriver.log".format("/home/w568w")
-# service_args = ['--verbose']
-# driver = webdriver.Chrome('/usr/bin/chromedriver',
-#         service_args=service_args,
-#         service_log_path=service_log_path)
-binary = FirefoxBinary('/home/w568w/下载/firefox/firefox')
+#YOUR FIREFOX PATH
+binary = FirefoxBinary('/home/admin/下载/firefox/firefox')
+#YOUR GECKODRIVER PATH
 obj = webdriver.Firefox(executable_path="/bin/geckodriver",firefox_binary=binary)
 print "OK"
 def loginGitStar():
