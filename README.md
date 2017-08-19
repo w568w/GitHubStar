@@ -25,3 +25,6 @@ Open```main.py```,replace
 ### Step7
 Run```python -u main.py```,  
 if everything is ok,a Firefox Browser will be opened automatically,Hooray!
+## Windows
+I haven't use Windows for a long time.  
+You can google ```windows python selenium firefox configure``` for more information.Good luck!
