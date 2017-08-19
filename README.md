@@ -19,12 +19,12 @@ GITNAME="w568w"
 GITPASSWORD="xxxx"
 #-----------------------------
 ```
-to your own infomation.
+with your own infomation.
 ### Step3
 Run```python -u main.py```,  
-Everything is ok,Hooray!
+Everything is ok,hooray!
 ## Windows
-I haven't use Windows for a long time.  
+I haven't used Windows for a long time.  
 You can google ```windows python``` for more information.Good luck!
 
 
