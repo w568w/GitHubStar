@@ -8,16 +8,14 @@ Gitstar自动点赞工具
 如果你已经安装过了，跳过这一步。  
 __确认你已安装 ```requests```库__
 ### Step2
-打开```main.py```,替换以下内容  
+打开```settings.py```,替换以下内容  
 ```
-#-----------------------------
-#GitStar
-NAME="w568w"
-PASSWORD="xxxx"
-#GitHub
-GITNAME="w568w"
-GITPASSWORD="xxxx"
-#-----------------------------
+#############settings#############
+NAME		= "1" #GitStar用户名
+PASSWORD	= "1" #GitStar密码
+GITNAME		= "1" #GitHub用户名
+GITPASSWORD	= "1" #GitHub密码
+#############settings#############
 ```
 把它们改成你自己的信息。  
 ### Step3
