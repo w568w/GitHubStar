@@ -1,5 +1,5 @@
 Engish [here](README.md)
-# GitHubStar
+# GiteeStar
 Gitstar自动点赞工具
 # 快速入门
 ## Linux
@@ -13,8 +13,8 @@ __确认你已安装 ```requests```库__
 #############settings#############
 NAME		= "1" #GitStar用户名
 PASSWORD	= "1" #GitStar密码
-GITNAME		= "1" #GitHub用户名
-GITPASSWORD	= "1" #GitHub密码
+GITNAME		= "1" #Gitee用户名
+GITPASSWORD	= "1" #Gitee密码
 #############settings#############
 ```
 把它们改成你自己的信息。  
