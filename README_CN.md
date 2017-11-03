@@ -1,6 +1,6 @@
 Engish [here](README.md)
 # GiteeStar
-Gitstar自动点赞工具
+Teestar自动点赞工具
 # 快速入门
 ## Linux
 ### 第一步
