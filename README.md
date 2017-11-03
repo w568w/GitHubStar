@@ -1,5 +1,5 @@
 Chinese [here](README_CN.md)
-# GitHubStar
+# GiteeStar
 Auto star for gitstar.cn
 ## Installation
 Tested on Windows, Linux, and OS X  
@@ -10,7 +10,7 @@ Make sure Python2.x and requests library is installed
 ## Usage
 ### Step 1
 Clone the repo  
-```git clone https://github.com/w568w/GitHubStar.git && cd GitHubStar```
+```git clone https://github.com/weilaihui/GiteeStar.git && cd GiteeStar```
 
 ### Step 2
 Open```settings.py```, replace variables with your own infomation.
@@ -18,8 +18,8 @@ Open```settings.py```, replace variables with your own infomation.
 #############settings#############
 NAME		= "1" #GitStar username
 PASSWORD	= "1" #GitStar password
-GITNAME		= "1" #GitHub username
-GITPASSWORD	= "1" #GitHub password
+GITNAME		= "1" #Gitee username
+GITPASSWORD	= "1" #Gitee password
 #############settings#############
 ```
 ### Step 3
