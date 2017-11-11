@@ -2,10 +2,17 @@ Chinese [here](README_CN.md)
 # GitHubStar
 Auto star for gitstar.cn
 ## Installation
-Tested on Windows, Linux, and OS X  
-Make sure Python2.x and requests library is installed
+Install Python 2.x,run```python --version```and```pip```for a test.  
 
-```python -V && pip install requests```
+To install pip, securely download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+
+Then run the following:
+
+> python get-pip.py
+
+If you have downloaded it,skip the step.  
+MAKE SURE that you have installed ```requests```.
+> pip install -r requirements.txt
 
 ## Usage
 ### Step 1
