@@ -17,7 +17,7 @@ MAKE SURE that you have installed ```requests```.
 ## Usage
 ### Step 1
 Clone the repo  
-```git clone https://github.com/weilaihui/GitHubStar.git && cd GitHubStar```
+```git clone https://github.com/w568w/GitHubStar.git && cd GitHubStar```
 
 ### Step 2
 Open```settings.py```, replace variables with your own infomation.
