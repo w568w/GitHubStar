@@ -41,7 +41,7 @@ class Gitstar():
 			,headers={'Content-Length': '0'}
 			,auth=AUTH)
 	def update_gitstar(self):
-		url = "http://gitstar.top:88/update"
+		url = "http://gitstar.top:88/star_update"
 		res = requests.get(url,headers={'Accept': 'application/json','Cookie':self.cookie})
 		print "update:" + str(res.status_code == 200)
 
