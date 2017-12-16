@@ -1,9 +1,20 @@
 Engish [here](README.md)
 # GitHubStar
-gitstar自动点赞工具
-# 快速入门
+Git Star自动点赞工具
+# 快速开始 ( 针对 Linux 用户 )
+1. 执行```git clone https://github.com/w568w/GitHubStar.git && cd GitHubStar/executable/dist/main/```。  
+2. 打开```user```文件，替换以下内容（括号内不用输入）  
+```
+w568w（GitStar用户名）
+123456（GitStar密码）
+w568w（GitHub用户名）
+123456（GitHub密码）
+（最后一行有个换行，请勿删除）
+```
+3. 执行```./main &lt; user```，完事儿！
+# 编译
 ## Linux
-### 第一步
+### Step1
 安装python2.x
 
 安装pip, 从 这里下载[get-pip.py](https://bootstrap.pypa.io/get-pip.py)

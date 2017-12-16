@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-  
-from settings import *
 global NAME
 global PASSWORD
 global GITNAME
@@ -15,10 +14,10 @@ sys.setdefaultencoding('utf-8')
 
 class Gitstar():
 	def __init__(self,url=""):
-		self.NAME 		= NAME
-		self.PASSWORD 		= PASSWORD
-		self.GITNAME 		= GITNAME
-		self.GITPASSWORD 	= GITPASSWORD
+		self.NAME 		= raw_input("")
+		self.PASSWORD 		=  raw_input("")
+		self.GITNAME 		= raw_input("")
+		self.GITPASSWORD 	= raw_input("")
 
 		self.cookie = None
 	def loginGitStar(self):
